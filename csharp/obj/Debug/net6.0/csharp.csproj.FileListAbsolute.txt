@@ -1,0 +1,15 @@
+H:\##_Ucheba_##\DZ\Выбор специализации\dz_final\csharp\bin\Debug\net6.0\csharp.exe
+H:\##_Ucheba_##\DZ\Выбор специализации\dz_final\csharp\bin\Debug\net6.0\csharp.deps.json
+H:\##_Ucheba_##\DZ\Выбор специализации\dz_final\csharp\bin\Debug\net6.0\csharp.runtimeconfig.json
+H:\##_Ucheba_##\DZ\Выбор специализации\dz_final\csharp\bin\Debug\net6.0\csharp.dll
+H:\##_Ucheba_##\DZ\Выбор специализации\dz_final\csharp\bin\Debug\net6.0\csharp.pdb
+H:\##_Ucheba_##\DZ\Выбор специализации\dz_final\csharp\obj\Debug\net6.0\csharp.csproj.AssemblyReference.cache
+H:\##_Ucheba_##\DZ\Выбор специализации\dz_final\csharp\obj\Debug\net6.0\csharp.GeneratedMSBuildEditorConfig.editorconfig
+H:\##_Ucheba_##\DZ\Выбор специализации\dz_final\csharp\obj\Debug\net6.0\csharp.AssemblyInfoInputs.cache
+H:\##_Ucheba_##\DZ\Выбор специализации\dz_final\csharp\obj\Debug\net6.0\csharp.AssemblyInfo.cs
+H:\##_Ucheba_##\DZ\Выбор специализации\dz_final\csharp\obj\Debug\net6.0\csharp.csproj.CoreCompileInputs.cache
+H:\##_Ucheba_##\DZ\Выбор специализации\dz_final\csharp\obj\Debug\net6.0\csharp.dll
+H:\##_Ucheba_##\DZ\Выбор специализации\dz_final\csharp\obj\Debug\net6.0\refint\csharp.dll
+H:\##_Ucheba_##\DZ\Выбор специализации\dz_final\csharp\obj\Debug\net6.0\csharp.pdb
+H:\##_Ucheba_##\DZ\Выбор специализации\dz_final\csharp\obj\Debug\net6.0\csharp.genruntimeconfig.cache
+H:\##_Ucheba_##\DZ\Выбор специализации\dz_final\csharp\obj\Debug\net6.0\ref\csharp.dll
